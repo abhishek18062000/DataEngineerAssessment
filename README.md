@@ -1,7 +1,11 @@
 # DataEngineerAssessment
 STEPS to run the PROGRAM
 1.download all the files
+
+
 2.open command prompt and change the directory where the files are downloaded
+
+
 3.Run following command "python program.py"
 
 
